@@ -64,11 +64,6 @@ Two models were trained:
 
 **Winner:** XGBoost
 
-> **Visual Suggestion:**  
-> Include a bar chart comparing MAE and RMSE values between the models.
-
----
-
 ## 5. Feature Importance
 
 Top 10 impactful features (based on model importance scores) were visualized for both models.
